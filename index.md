@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am a frontend engineer with an experience of over 5 years. I have hands on experienceworking with web frameworks and technologies. I have extensively worked on react and typescript for 3 years.
+I am a java backend  engineer with an experience of over 7.11 years in the analysis, design, development, and delivery of end to end solutions for software applications. I have hands on experienceworking with Microservices, Springboot, REST API’s followed by DevOps - Kubernetes, Google Cloud.
 
 ---
 
@@ -18,32 +18,54 @@ I am a frontend engineer with an experience of over 5 years. I have hands on exp
 
 ## Experience
 
-### **SENIOR FRONTEND DEVELOPER**
-### MIRO
+### **SENIOR JAVA BACKEND DEVELOPER**
+### NAGARRO
 
-Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
+Working on Open Banking PSD2 Project for a European Bank, serving as a Senior Java Developer, involved in designing and developing of PSD2 API’s using Microservices that perform backend operations and provide REST Endpoints.
 
-### **FRONTEND DEVELOPER**
-### Booking.com
+1.	Design & Development in Microservices - Java Springboot (API Gateway, Service Discovery, Event Sourcing, Containerization, Fault Tolerance, Database Patterns). 
+2.	DevOps – CI CD Pipeline on Kubernetes, Openshift, Jenkins.
+3.	Research & Development on Cloud - Google Cloud Platform Certified 2X ( Professional Cloud Architect & Associate Cloud Engineer).
+4.	Design and Development of new modules in Android Application for BFSI Domain.
+5.	Involved in resolving the technical issues.
 
-Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.
 
-### **SOFTWARE DEVELOPER**
-### NAGARRO PVT, LTD
+### **SENIOR SOFTWARE ENGINEER**
+### SPICE DIGITAL
 
-Worked on java , hybris framework and promotion engine. Created registration process, order hostory for amway. Worked on emil notifications service for customers
+Worked with packages team to build mobile pplications using Android SDK.
+
+1.	Design and Development of new modules in Android – Fintech Wallet & E-commerce Logistics.
+2.	Research & Development on Internet of Things (IOT, IBM Watson, Amazon Alexa Api’s).
+3.	Analysis/Debugging/Maintenance - Collaboration with Testing team to ensure system performance.
+
+
+### **SOFTWARE ENGINEER**
+### DECIMAL TECHNOLOGIES 
+
+Worked on android mobile application development.
+
+1.	Research & Development on Android POCs.
+2.	Design and Development of new modules in Android Applications – Banking & Insurance
 
 ---
 
 ## Education
 
-### **GURU NANAK DEV UNIVERSITY**
-### BTech Computer Science (2012- 2016)
-GPA 8.75
+### **PANJAB UNIVERSITY**
+### BTech Computer Science (2010- 2014)
+GPA 7.0
 
 ---
 
-### INTERESTS
-Apart from being a web developer, I do content creation. I make videos related to frontend and general tech.
+### Honors and awards
+•	Recognized with Brightest Mind Award for amazing contribution in Thinking Breakthrough Initiative.
+•	Recognized with Star Performer Award for constant hard work and dedication towards the success of company.
+•	Got an Appreciation Certificate on the basis of performance and way of handling the projects-  by delivering in time, every time, while maintaining the quality of the Applications
 
-I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play guitar and sing in my free time.
+
+---
+### INTERESTS
+Apart from being a software developer, 
+
+I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. Playing Cricket and Traveling are the things I really enjoy. Traveling extensively in the Himalayas
