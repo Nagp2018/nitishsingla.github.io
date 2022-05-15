@@ -13,11 +13,14 @@ Previously worked for a European Bank on Open Banking PSD2 Project (Orchestrator
 ## Skills
 
 <p align='left'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
-   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+  <img src="https://drive.google.com/uc?id=1WL2Cbi5rQZOAvJvSmuhUMoN8CzlZo62P" alt="Java8" width="40" height="40">
+  <img src='https://drive.google.com/uc?id=1fvVKB3Xqn8qGK9jt_jDRZWy1Wck7aFGd' alt="Microservices" width="40" height="40">
+  <img src='https://drive.google.com/uc?id=1IJyPLwSxJ8XEt4yuDm2YzYGzyNu8bZW0' height='30' width='auto' alt="Rest API">
+   <img src="https://drive.google.com/uc?id=1H5epiQWF_0ii-6FgoHDef2qMAeOSCxW9" alt="Springboot" width="auto" height="40"/>
+   <img src="https://drive.google.com/uc?id=1A-JceoABZRI-Q75xe0TLB7Xwl3xC-7CU" alt="Kafka" width="40" height="40"/>
+    <img src='https://drive.google.com/uc?id=1AustV5ufb-1wI_0gcXRDvcmCn3NkVhXd' height='30' width='auto' alt="Docker">
+   <img src="https://drive.google.com/uc?id=15xqrlXz8hLBc9SnodpCoNW7NgFxyJyqQ" alt="Kubernetes" width="auto" height="40"/>
+   <img src="https://drive.google.com/uc?id=1p49P7koRrA2FnTD9YjbgU2lm63DhGQ6R" alt="Google Cloud" width="40" height="40"/>
 </p>
 
 ---
