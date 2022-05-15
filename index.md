@@ -1,6 +1,12 @@
 ## Portfolio
 
-I am a java backend  engineer with an experience of over 7.11 years in the analysis, design, development, and delivery of end to end solutions for software applications. I have hands on experienceworking with Microservices, Springboot, REST API’s followed by DevOps - Kubernetes, Google Cloud.
+I am a java backend  engineer with an experience of over 8.5 years in the analysis, design, development, and delivery of end to end solutions for software applications. I have hands on experienceworking with Microservices, Springboot, REST API’s followed by DevOps - Kubernetes, Google Cloud.
+
+Currently working as a Senior Java Backend Developer with Nagarro Software Private Limited. 
+
+In Nagarro, Currently working for an American retail client, serving as a Senior Java Developer, involved in designing and developing to build low latency highly scalable personalization platform using Microservices Architecture that performs backend operations and provides personalization signals. Primarily, it involves showing recommended products, categories, and search terms based on the user behavior and historical orders.
+
+Previously worked for a European Bank on Open Banking PSD2 Project (Orchestrator Layer above the core banking), served as a Lead Java Developer, involved in designing and developing PSD2 APIs using Microservices that perform backend operations and provide REST Endpoints. Idea is Banks can offer additional API based services to third parties like UPI in India It was required by the European Authority to allow its customers to provide access to their banking data on AIS (Account information service), PIS (Payment Initiation service) and CAF (Confirmation on Availability of Funds) to TPPs (Third party providers).
 
 ---
 
@@ -21,14 +27,20 @@ I am a java backend  engineer with an experience of over 7.11 years in the analy
 ### **SENIOR JAVA BACKEND DEVELOPER**
 ### NAGARRO
 
-Working on Open Banking PSD2 Project for a European Bank, serving as a Senior Java Developer, involved in designing and developing of PSD2 API’s using Microservices that perform backend operations and provide REST Endpoints.
+Roles and Responsibilities:
 
-1.	Design & Development in Microservices - Java Springboot (API Gateway, Service Discovery, Event Sourcing, Containerization, Fault Tolerance, Database Patterns). 
-2.	DevOps – CI CD Pipeline on Kubernetes, Openshift, Jenkins.
-3.	Research & Development on Cloud - Google Cloud Platform Certified 2X ( Professional Cloud Architect & Associate Cloud Engineer).
-4.	Design and Development of new modules in Android Application for BFSI Domain.
-5.	Involved in resolving the technical issues.
-
+1. Microservices - REST, Springboot, Kafka, Cassandra
+2. Research & Development on Cloud - Google Cloud Platform Certified 2X ( Professional Cloud
+Architect & Associate Cloud Engineer)
+3. DevOps - Kubernetes, Spinnaker
+4. Design and Development of new modules in Android Application for BFSI Domain.
+5. Analysis/Feasibility/ Estimation of the new software applications.
+6. Working closely with the development team to set the technical protocols.
+7. Involved in resolving technical issues.
+8. Reviewing patterns, frameworks, technologies, and best practices defined by the solution architect, to achieve the envisioned solution. Ensuring that non-functional requirements are taken into consideration for the design and architecture.
+9. Reviewing, updating, owning, and maintaining both high- and low-level design documents.
+10. Unit Testing and code review of the developed application.
+11. Contributing to fresher mentoring and training of junior members by providing technical workshops in NAGP Program.
 
 ### **SENIOR SOFTWARE ENGINEER**
 ### SPICE DIGITAL
