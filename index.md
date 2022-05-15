@@ -68,16 +68,16 @@ Worked on android mobile application development.
 ## Education
 
 ### **PANJAB UNIVERSITY**
-### BTech Computer Science (2010- 2014)
+### BTech Computer Science
 GPA 7.0
 
 ---
 
 ### Honors and awards
-•	Recognized with Brightest Mind Award for amazing contribution in Thinking Breakthrough Initiative.
-•	Recognized with Star Performer Award for constant hard work and dedication towards the success of company.
-•	Got an Appreciation Certificate on the basis of performance and way of handling the projects-  by delivering in time, every time, while maintaining the quality of the Applications
 
+1.	Recognized with Brightest Mind Award for amazing contribution in Thinking Breakthrough Initiative.
+2.	Recognized with Star Performer Award for constant hard work and dedication towards the success of company.
+3.	Got an Appreciation Certificate on the basis of performance and way of handling the projects-  by delivering in time, every time, while maintaining the quality of the Applications.
 
 ---
 ### INTERESTS
