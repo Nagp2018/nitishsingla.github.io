@@ -4,7 +4,7 @@ I am a java backend  engineer with an experience of over 8.5 years in the analys
 
 Currently working as a Senior Java Backend Developer with Nagarro Software Private Limited. 
 
-In Nagarro, Currently working for an American retail client, serving as a Senior Java Developer, involved in designing and developing to build low latency highly scalable personalization platform using Microservices Architecture that performs backend operations and provides personalization signals. Primarily, it involves showing recommended products, categories, and search terms based on the user behavior and historical orders.
+In Nagarro, Serving as a Senior Java Developer for an American retail client, involved in designing and developing to build low latency highly scalable personalization platform using Microservices Architecture that performs backend operations and provides personalization signals. Primarily, it involves showing recommended products, categories, and search terms based on the user behavior and historical orders.
 
 Previously worked for a European Bank on Open Banking PSD2 Project (Orchestrator Layer above the core banking), served as a Lead Java Developer, involved in designing and developing PSD2 APIs using Microservices that perform backend operations and provide REST Endpoints. Idea is Banks can offer additional API based services to third parties like UPI in India It was required by the European Authority to allow its customers to provide access to their banking data on AIS (Account information service), PIS (Payment Initiation service) and CAF (Confirmation on Availability of Funds) to TPPs (Third party providers).
 
