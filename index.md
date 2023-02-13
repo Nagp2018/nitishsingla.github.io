@@ -2,9 +2,9 @@
 
 I am a java backend  engineer with an experience of over 8.5 years in the analysis, design, development, and delivery of end to end solutions for software applications. I have hands on experienceworking with Microservices, Springboot, REST API’s followed by DevOps - Kubernetes, Google Cloud.
 
-Currently working as a Senior Java Backend Developer with Nagarro Software Private Limited. 
+Currently working as a Lead Technology with Nagarro Software Private Limited. 
 
-In Nagarro, Serving as a Senior Java Developer for an American retail client, involved in designing and developing to build low latency highly scalable personalization platform using Microservices Architecture that performs backend operations and provides personalization signals.
+In Nagarro, Serving as a Lead Java Developer for an American retail client, involved in designing and developing to build low latency highly scalable personalization platform using Microservices Architecture that performs backend operations and provides personalization signals.
 
 Previously worked for a European Bank on Open Banking PSD2 Project (Orchestrator Layer above the core banking), served as a Lead Java Developer, involved in designing and developing PSD2 APIs using Microservices that perform backend operations and provide REST Endpoints to TPPs (Third party providers).
 
@@ -27,7 +27,7 @@ Previously worked for a European Bank on Open Banking PSD2 Project (Orchestrator
 
 ## Experience
 
-### **SENIOR JAVA BACKEND DEVELOPER**
+### **LEAD Engineer in Technology**
 ### NAGARRO
 
 Roles and Responsibilities:
